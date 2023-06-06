@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 export const StyledNavLink = styled(NavLink)`
   text-decoration: none;
-  color: green;
+  color: darkgreen;
 
   &.active {
     color: red;
