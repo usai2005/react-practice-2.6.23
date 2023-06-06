@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-practice-2.6.23/static/css/main.7acaea2f.css",
+    "main.js": "/react-practice-2.6.23/static/js/main.0c3eafa7.js",
+    "index.html": "/react-practice-2.6.23/index.html",
+    "main.7acaea2f.css.map": "/react-practice-2.6.23/static/css/main.7acaea2f.css.map",
+    "main.0c3eafa7.js.map": "/react-practice-2.6.23/static/js/main.0c3eafa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0c3eafa7.js"
+  ]
+}
